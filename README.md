@@ -10,7 +10,7 @@
   <li><a href="https://github.com/Arquisoft/wichat_en2b">WIChat</a> - A Q&A app with AI-generated hints and images/data provided by WikiData API.</li>
 </ul>
 <br>
-<h2 align="left">Languages and tools I have practiced already</h2>
+<h2 align="left">Languages and tools I have practiced already in my degree</h2>
 <main style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <p> 
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
