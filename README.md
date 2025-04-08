@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying in <a style="color: #6495ED;" href="https://www.uniovi.es/">University of Oviedo</a> a **software engineering** course
 
-- 👯 How to reach me **cimadevilla.francisco@gmail.com**
+- 📧 How to contact me **cimadevilla.francisco@gmail.com**
 <br>
 <h2>🚀 Projects I've been working on</h2>
 <ul>
