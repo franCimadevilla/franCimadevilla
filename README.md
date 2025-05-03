@@ -7,7 +7,7 @@
 <br>
 <h2>🚀 Projects I've been working on</h2>
 <ul>
-  <li><a href="https://github.com/Arquisoft/wichat_en2b">WIChat</a> - A Q&A app with AI-generated hints and images/data provided by WikiData API.</li>
+  <li><a href="https://github.com/Arquisoft/wichat_en2b">WiChat</a> - A Q&A web app with images/data provided by <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">WikiData</a>, AI-generated hints and multiplayer sessions.</li>
 </ul>
 <br>
 <h2 align="left">Languages and tools I have practiced already in my degree</h2>
