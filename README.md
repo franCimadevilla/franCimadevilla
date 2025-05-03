@@ -34,7 +34,7 @@
   </p>
   <br>
   <br>
-  <div style="align-items: center">
+  <div align="center">
     <p style="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franCimadevilla&show_icons=true&locale=en" alt="franCimadevilla" /></p>
   </div>
 </main>
